@@ -8,15 +8,11 @@
 - Databases: Postgres, NoSQL, FaunaDB
 - Other: Arduinos, Raspberry Pi, Cloudflare Workers
 
-## 💼 Projects
+## 💼 Some Projects
 
 - **[Calculation of high school grade point average (Abitur)](https://derabirechner.de/)** \
   A platform used by over +180,000 users in the past year. \
   Stack: Typescript, React, Remix
-
-- **[Video creation using LLMS about well-known people](https://thepersonpedia.com/de)** \
-  A unique platform to learn about influential personalities through video content. \
-  Stack: Typescript, Express, Python, React, Postgres
 
 - **[Drag and Drop Balance Sheet Trainer](https://balance-eta.vercel.app/)** \
   A tool to make learning balance sheets fun and interactive. \
